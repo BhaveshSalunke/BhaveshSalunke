@@ -25,7 +25,7 @@ Hi, I'm [Bhavesh Salunke!](https://www.discitelabs.com), a passionate  Full Stac
 - 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@SalunkeBhavesh](https://twitter.com/SalunkeBhavesh);
-- 📝[Resume](https://)
+- 📝[Resume](https://www.dropbox.com/s/1i9fkccnno90h1f/Bhavesh_Resume.pdf?dl=0)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BhaveshSalunke.BhaveshSalunke)
 <br/>
