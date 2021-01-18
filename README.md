@@ -17,11 +17,11 @@ Here are some ideas to get you started:
   
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br />
 
-Hi, I'm [Bhavesh Salunke!](https://www.discitelabs.com), a passionate self-taught Full Stack Web Developer 🚀 from India.
+Hi, I'm [Bhavesh Salunke!](https://www.discitelabs.com), a passionate  Full Stack Web Developer 🚀 from India.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨🏽‍💻 I’m currently working as a freelancer :wink:;
 - 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@SalunkeBhavesh](https://twitter.com/SalunkeBhavesh);
