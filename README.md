@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
-<br />
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br />
 
 Hi, I'm [Bhavesh Salunke!](https://www.discitelabs.com), a passionate self-taught Full Stack Web Developer 🚀 from India.
 
