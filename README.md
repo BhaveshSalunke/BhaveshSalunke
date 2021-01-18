@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/SalunkeBhavesh">
-  <img align="left" alt="Bhavesh Salunke | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bhaveshsalunke/">
-  <img align="left" alt="Bhavesh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/6u9trz3wakomlkiftnsf713yc">
-  <img align="left" alt="Bhavesh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 <br />
 
 Hi, I'm [Bhavesh Salunke!](https://www.discitelabs.com), a passionate self-taught Full Stack Web Developer 🚀 from India.
