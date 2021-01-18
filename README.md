@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
@@ -20,8 +22,6 @@ Here are some ideas to get you started:
 
 Hi, I'm [Bhavesh Salunke!](https://www.discitelabs.com), a passionate self-taught Full Stack Web Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
@@ -39,7 +39,13 @@ Hi, I'm [Bhavesh Salunke!](https://www.discitelabs.com), a passionate self-taugh
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+```js
+class Skills extends SoftwareDeveloper {
+  languages  = ['Java','JavaScript', 'Kotlin','HTML','CSS'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Angular', 'Bootstrap'];
+}
+```
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BhaveshSalunke.BhaveshSalunke)
 
