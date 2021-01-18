@@ -27,6 +27,8 @@ Hi, I'm [Bhavesh Salunke!](https://www.discitelabs.com), a passionate  Full Stac
 - 📫 How to reach me: [@SalunkeBhavesh](https://twitter.com/SalunkeBhavesh);
 - 📝[Resume](https://)
 
+![](https://visitor-badge.glitch.me/badge?page_id=BhaveshSalunke.BhaveshSalunke)
+<br/>
 ```js
 class Skills extends SoftwareDeveloper {
   languages  = ['Java','JavaScript', 'Kotlin','HTML','CSS'];
@@ -35,7 +37,6 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
-![](https://visitor-badge.glitch.me/badge?page_id=BhaveshSalunke.BhaveshSalunke)
 
 
 
