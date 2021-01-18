@@ -30,7 +30,6 @@ Hi, I'm [Bhavesh Salunke!](https://www.discitelabs.com), a passionate self-taugh
 - 📫 How to reach me: [@SalunkeBhavesh](https://twitter.com/SalunkeBhavesh);
 - 📝[Resume](https://)
 
-**Languages and Tools:**  
 ```js
 class Skills extends SoftwareDeveloper {
   languages  = ['Java','JavaScript', 'Kotlin','HTML','CSS'];
