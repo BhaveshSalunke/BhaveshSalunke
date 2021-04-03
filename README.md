@@ -21,7 +21,7 @@ Hi, I'm [Bhavesh Salunke!](https://www.discitelabs.com), a passionate  Full Stac
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as a freelancer :wink:;
+- 👨🏽‍💻 I’m currently working at  [Nelkinda Software Craft.](https://nelkinda.com/)  ;
 - 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@SalunkeBhavesh](https://twitter.com/SalunkeBhavesh);
