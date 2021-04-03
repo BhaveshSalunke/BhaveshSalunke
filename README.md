@@ -29,14 +29,6 @@ Hi, I'm [Bhavesh Salunke!](https://www.discitelabs.com), a passionate  Full Stac
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BhaveshSalunke.BhaveshSalunke)
 <br/>
-```js
-class Skills extends SoftwareDeveloper {
-  languages  = ['Java','JavaScript', 'Kotlin','HTML','CSS'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'Bootstrap'];
-}
-```
-
 
 
 
