@@ -1,8 +1,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br />
+### Hey There 
 
-A passionate  Web Developer from India, currently working at [Nelkinda Software Craft.](https://nelkinda.com/) Ask me about anything, I am happy to help. Check out my 
+I'm a passionate  Web Developer from India, currently working at [Nelkinda Software Craft.](https://nelkinda.com/) Ask me about anything, I am happy to help. Check out my 
  [Resume](https://bhaveshsalunke.s3.ap-south-1.amazonaws.com/Bhavesh_SDE_Resume.pdf) 👨🏽‍💻 <br/>
  
 <a href="https://twitter.com/SalunkeBhavesh">
