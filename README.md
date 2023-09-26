@@ -3,7 +3,7 @@
 ### Hey There 
 
 I'm a passionate  Web Developer from India, currently working at [Nelkinda Software Craft.](https://nelkinda.com/) Ask me about anything, I am happy to help. Check out my 
- [Resume](https://bhaveshsalunke.s3.ap-south-1.amazonaws.com/Bhavesh_SDE_Resume.pdf) 👨🏽‍💻 <br/>
+ [Resume](https://bhaveshsalunke.s3.ap-south-1.amazonaws.com/BhaveshSalunkeResume.pdf) 👨🏽‍💻 <br/>
  
 <a href="https://twitter.com/SalunkeBhavesh">
     <img src="https://img.shields.io/badge/-Twitter-%2300acee">
