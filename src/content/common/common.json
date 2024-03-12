@@ -1,0 +1,30 @@
+{
+    "name": "Bhavesh Salunke",
+    "logoType": {
+        "mobile": "BS",
+        "desktop": "Bhavesh Salunke"
+    },
+    "mainPicture": "/assets/BS.jpg",
+    "mainPictureJPG": "/assets/BS.jpg",
+    "pronunciation": "/bhah-vay-sh/",
+    "audioFile": "/assets/name.mp3",
+    "cssVarPrefix": "hp",
+    "email": "bhaveshsalunke14@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/bhaveshsalunke/",
+    "github": "https://github.com/BhaveshSalunke",
+    "resume": "https://bhaveshsalunke.s3.ap-south-1.amazonaws.com/BhaveshSalunkeResume.pdf",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com/in/bhaveshsalunke"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/BhaveshSalunke"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:bhaveshsalunke14@gmail.com"
+        }
+    ]
+}

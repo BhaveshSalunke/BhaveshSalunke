@@ -1,0 +1,76 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "Savitribai Phule Pune University",
+            "degree": "Bachelor of Technology (B.Tech.)",
+            "fieldOfStudy": "Information Technology",
+            "duration": "2015 - 2019",
+            "content": [
+                "Grade: First Class",
+                "Courses:  Data Structures, Database Management systems, Software Engineering and Information Systems."
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "Maharashtra State Board",
+            "degree": "Higher Secondary Certificate",
+            "fieldOfStudy": "Science",
+            "duration": "2014 - 2015",
+            "content": [
+                "Grade: 86.46%",
+                "Ranked among the top 0.1% out of 1.3 million students across Maharashtra state."
+            ]
+        }
+    ],
+    "experiences": [
+            {
+                "id": "exp-1",
+                "company": "Massive Rocket",
+                "position": "Full Stack Developer Consultant",
+                "duration": "May 2023 - Present",
+                "description": [
+                    "Contributes expertise to make businesses more customer-centric using data, beautiful experiences, and automated communications.",
+                    "Works with technologies including Braze, mParticle, Segment, Tealium, Snowflake, Tableau, Looker, Amplitude & Mixpanel."
+                ]
+            },
+            {
+                "id": "exp-2",
+                "company": "Nelkinda Software Craft",
+                "position": "Software Craftsperson",
+                "duration": "Mar 2021 - Present",
+                "description": [
+                    "Develops clean, reusable code using TDD, SOLID principles, and object-oriented design.",
+                    "Crafts optimized SQL queries for PostgreSQL databases.",
+                    "Collaborates effectively in an Agile/Scrum environment."
+                ]
+            },
+            {
+                "id": "exp-3",
+                "company": "Discite Labs",
+                "position": "Freelancer",
+                "duration": "Jun 2019 - Mar 2021",
+                "description": [
+                    "Built websites for brand enhancement and practiced test-driven development (TDD)."
+                ]
+            }
+        ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": ["Kotlin", "Java", "JavaScript","Express.js", "SQL", "Shell"]
+        },
+        {
+            "title": "Web",
+            "tools": ["React", "Vue", "NodeJS", "HTML/CSS"]
+        },
+        {
+            "title": "Databases",
+            "tools": ["PostgreSQL", "Snowflake", "MongoDB", "Redis", "MySQL"]
+        },
+        {
+            "title": "OS & Tools",
+            "tools": ["MacOS", "Linux", "Git", "Agile", "MVC", "Docker", "Kubernetes"]
+        }
+    ]
+}
