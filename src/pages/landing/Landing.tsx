@@ -1,8 +1,8 @@
 import { FC } from "react";
 
-import { Box, Button, Center, Container, Flex, Heading, HStack, IconButton, Image, Stack } from "@chakra-ui/react";
+import { Center, Container, Heading, Image, HStack, Stack, Flex, Box, IconButton, Button } from "@chakra-ui/react";
 
-import { configs, Content, MarkdownFile, useContent } from "shared/content/Content";
+import { Content, configs, useContent, MarkdownFile } from "shared/content/Content";
 import { Socials } from "shared/socials/Socials";
 import { SkillPageId } from "utils/useScroll";
 import { ChevronDownIcon } from "utils/Icons";

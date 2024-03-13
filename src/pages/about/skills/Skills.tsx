@@ -4,7 +4,7 @@ import { Box } from "@chakra-ui/react";
 
 import { configs } from "shared/content/Content";
 import { Tags } from "shared/tags/Tags";
-import { SectionTitle } from "../common/title/Title";
+import { ArticleTitle, SectionTitle } from "../common/title/Title";
 
 export const Skills: FC = () => {
     return (
