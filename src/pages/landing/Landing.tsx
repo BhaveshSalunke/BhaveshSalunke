@@ -47,9 +47,9 @@ export const Landing: FC = () => {
                         data-aos-delay="400"
                     >
                         <picture>
-                            <source type="image/webp" src={configs.landing.picture}></source>
-                            <source type="image/jpeg" src={configs.landing.jpg}></source>
-                            <Image borderRadius="xl" src={configs.landing.jpg} alt={`face-cover-image`} />
+                            <source type="image/webp" src={process.env.PUBLIC_URL + configs.landing.picture}></source>
+                            <source type="image/jpeg" src={process.env.PUBLIC_URL + configs.landing.jpg}></source>
+                            <Image borderRadius="xl" src={process.env.PUBLIC_URL + configs.landing.jpg} alt={`face-cover-image`} />
                         </picture>
                     </Container>
                 </HStack>
