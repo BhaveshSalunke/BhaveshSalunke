@@ -7,9 +7,6 @@ I'm a passionate **Web Developer** from India, currently working at [Massive Roc
 
 ### Let's Connect:
 
-<a href="https://twitter.com/SalunkeBhavesh">
-    <img src="https://img.shields.io/badge/-Twitter-%2300acee" alt="Twitter Badge">
-</a>
 <a href="https://open.spotify.com/user/6u9trz3wakomlkiftnsf713yc">
     <img src="https://img.shields.io/badge/-Spotify-%231DB954" alt="Spotify Badge">
 </a>
